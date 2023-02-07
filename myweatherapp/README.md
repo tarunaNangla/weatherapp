@@ -72,7 +72,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 
-<!-- https://api.openweathermap.org/data/3.0/onecall?lat=33.44&lon=-94.04&exclude=hourly,daily&appid={API key}
+<!-- https://api.openweathermap.org/data/3.0/onecall?lat=33.44&lon=-94.04&exclude=hourly,daily&appid=b9134f13202791b53a307cfa0e6b0820 
 
 
 key b9134f13202791b53a307cfa0e6b0820 -->
+
+<!-- https://api.openweathermap.org/data/2.5/weather?lat=44.34&lon=10.99&appid=b9134f13202791b53a307cfa0e6b0820 -->
