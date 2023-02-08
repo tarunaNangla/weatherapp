@@ -78,3 +78,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 key b9134f13202791b53a307cfa0e6b0820 -->
 
 <!-- https://api.openweathermap.org/data/2.5/weather?lat=44.34&lon=10.99&appid=b9134f13202791b53a307cfa0e6b0820 -->
+
+
+
+https://api.openweathermap.org/data/2.5/weather?q=Pune&appid=b9134f13202791b53a307cfa0e6b0820
