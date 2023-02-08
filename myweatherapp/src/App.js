@@ -1,12 +1,15 @@
-import logo from './logo.svg';
+
 import './App.css';
+import { Box } from '@chakra-ui/react'
+
 import Weather from './component/Weather';
 
 function App() {
   return (
-    <div className="App">
+    <Box className="App">
       <Weather/>
-    </div>
+     
+    </Box>
   );
 }
 
